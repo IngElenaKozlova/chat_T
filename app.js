@@ -4,9 +4,6 @@ const express = require('express');
 const userRoute = require('./routes/user/index');
 const productRoute = require('./routes/product/index');
 
-
-
-
 const start = async () => {
     dotenv.config();
     const app = express();
