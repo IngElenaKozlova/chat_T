@@ -1,0 +1,49 @@
+[
+    {
+        "article_id": "111",
+        "name": "string",
+        "variant": "string",
+        "create_date": "UNIX",
+        "quantity": 0,
+        "price": 0
+    },
+    {
+        "article_id": "222",
+        "name": "striusng",
+        "variant": "string",
+        "quantity": 0,
+        "price": 0
+    },
+    {
+        "article_id": "2221",
+        "name": "users",
+        "variant": "saldksakdsad",
+        "quantity": 2,
+        "price": 22,
+        "update_date": 1728498657310
+    },
+    {
+        "article_id": "2222",
+        "name": "strinusg",
+        "variant": "string",
+        "create_date": 1728324548295,
+        "quantity": 0,
+        "price": 0
+    },
+    {
+        "article_id": "2223",
+        "name": "string",
+        "variant": "string",
+        "update_date": 1728324885191,
+        "quantity": 0,
+        "price": 0
+    },
+    {
+        "article_id": "21312",
+        "name": "Hrllo",
+        "variant": "string",
+        "update_date": 1728496669387,
+        "quantity": 0,
+        "price": 0
+    }
+]

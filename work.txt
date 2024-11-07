@@ -1,0 +1,70 @@
+Frontend: React.js, styled-components, Storybook, Cypress
+Backend: TypeScript/Node.js, Next.js, Express.js, Docusaurus, Meteor.js,                                      Jest
+Infra: AWS, Kubernetes, Helm, MongoDB, Redis, DynamoDB, S3, GitHub Actions...
+Monitoring: New Relic, LogDNA, Sentry, PagerDuty
+Tools: GitHub, ZenHub, Notion, GSuite
+Process: two-week sprints, code reviews, tests, automating whatever we can, deploying multiple times per day
+
+
+
+80
+50-40 (-20)
+
+1 TypeScript 
+1 Mongose 
+1 Dop 
+0.5 project 
+0.5 sob
+
+
+
+
+
+TypeScript          JavaScript 
+  Node.js            Node.js
+Express.js          Express.js
+
+
+        TypeScript
+Frontend        Backend   
+Next            Node.js   MongoDB
+Redux           Express 
+                SocketJs 
+                webSip 
+                p2p
+
+
+
+MongoDB | TypeScript | AWS 
+Docker - 
+
+
+                
+
+
+
+
+
+
+
+Sklad sistem 
+
+    // registration
+    // login (tokens will be saved in user.json for every user (createFileUser again))
+    
+
+// for this need authorization and email (headers), tokens are saved in user.json for every user (createFileUser again)
+// products: for authorization need email and token we created
+    create products ?
+    add product 
+    update product 
+    remove product 
+    
+
+
+
+// npm init 
+
+
+
+// user@gmail.com/peosucts.json 
